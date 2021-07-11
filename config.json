@@ -1,7 +1,7 @@
 {
   "ip": "192.168.1.1",
-  "username": "root",
-  "password": "qwerty333",
+  "username": "admin",
+  "password": "password",
   "actions": {
     "get_model": true,
     "get_board_name": true,
